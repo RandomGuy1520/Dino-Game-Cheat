@@ -8,10 +8,6 @@ speed_max = False
 time_max = 140
 time_passed = 0
 
-# Testing If Record
-time_all = time.time()
-record_time = 0
-
 # Main Loop
 time.sleep(3)
 while True:
@@ -42,6 +38,5 @@ while True:
         break
     if (screen == 255 and (80 <= game_ends <= 85 and 80 <= game_ends2 <= 85 and 80 <= game_ends3 <= 85)) or \
             (screen == 0 and (170 <= game_ends <= 175 and 170 <= game_ends2 <= 175 and 170 <= game_ends3 <= 175)):
-        current_time = time.time()
         break
     time.sleep(0.02)
