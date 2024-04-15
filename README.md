@@ -17,4 +17,4 @@ If you want the program to end, you can hold the 's' key and the program will en
 
 Some Info:
 This program averages about 10000 points (on my computer). Sometimes you will get lucky and get over 20000 points.
-If you don't achieve the average score of 10000, then you can change the detecting values of the cacti in the code.
+If you don't achieve the average score of 10000, then you can change the detecting values of the cacti in the code so that the values are best for your setting.
